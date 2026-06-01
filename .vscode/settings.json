@@ -1,0 +1,4 @@
+{
+  "biome.lsp.bin": "${workspaceFolder}/node_modules/@biomejs/biome/bin/biome",
+  "css.lint.unknownAtRules": "ignore"
+}
